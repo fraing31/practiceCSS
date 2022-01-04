@@ -1,0 +1,10 @@
+div{
+    border: 1px dashed #9a351f;
+    border-color: blue;
+    border-width: 3px;
+    border-style: solid;
+    padding: 20px 20px 50px 70px;
+    margin-bottom: 10px;
+    width: 300px;
+}
+
